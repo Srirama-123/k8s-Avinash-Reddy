@@ -14,7 +14,7 @@ Ingress is widely used in Kubernetes because it provides a centralized way to ma
 ![flow-new](https://github.com/user-attachments/assets/88a31984-6f95-4667-bde2-40e09e0b9a5c)
 
 ---
-
+### **AWS LB Controller also called Ingress Controller IC**
 ### **Components of Ingress in Kubernetes**  
 
 An **Ingress setup** consists of several components:
